@@ -1,0 +1,258 @@
+
+.background1 {
+    background-image: url("https://technofav.in/images/banner.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.background2 {
+    background-image: url("https://technofav.in/images/banner1.jpg");
+    height: 100vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.nav_logo {
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+    position: absolute;
+    top: 55px;
+    left: 20px;
+    margin: auto;
+}
+
+.nav {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    position: absolute;
+    top: 51px;
+    left: 18rem;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: white;
+}
+
+.banner_text {
+    top: 11.8rem;
+    position: absolute;
+    left: 12.7rem;
+    color: #fff;
+    font-size: 24px;
+    line-height: 22px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.banner_text h5 {
+    padding: 3px 0 0 0;
+    font-size: 26px;
+    line-height: 26px;
+    font-weight: 100;
+    letter-spacing: 5px;
+}
+
+li {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.section2_text {
+    padding: 47px 00px 0px 135px;
+    color: #ffffff;
+}
+
+.section2_text H2 {
+    font-size: 26px;
+    font-family: 'Righteous', cursive;
+}
+
+.section2_text span {
+    font-size: 46px;
+}
+
+.section2_text H3 {
+    margin: 25px 0px 6px 0px;
+    font-size: 18px;
+    font-family: 'Play', sans-serif;
+    font-weight: 400;
+}
+
+.section2_h3_1 {
+    padding: 0 0 0 10px;
+}
+
+.section2_text p {
+    margin: 0px 0px 20px 0px;
+    color: #fff;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.section2_p1 {
+    padding: 0 0 0 40px;
+}
+
+.section2_h3_2 {
+    padding: 0 0 0 50px;
+}
+
+.section2_p2 {
+    padding: 0 0 0 70px;
+}
+
+.section2_h3_3 {
+    padding: 0 0 0 80px;
+}
+
+.section2_p3 {
+    padding: 0 0 0 100px;
+}
+
+.section2_h3_4 {
+    padding: 0 0 0 130px;
+}
+
+.section2_p4 {
+    padding: 0 0 0 160px;
+}
+
+.section2_h3_5 {
+    padding: 0 0 0 160px;
+}
+
+.section2_p5 {
+    padding: 0 0 0 190px;
+}
+
+.background3 {
+    background-image: url("https://technofav.in/images/banner2.jpg");
+    height: 100vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.section3_text {
+    margin-left: 16.66666667%;
+}
+
+.section3_text h5 {
+    padding: 40px 0px 40px 60px;
+    font-size: 35px;
+    font-family: 'Righteous', cursive;
+    color: #fff;
+    position: absolute;
+}
+
+.container {
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
+
+.photos img {
+    position: absolute;
+    margin: 188px 0 0 0;
+    background: #333;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.img1 {
+    position: absolute;
+    z-index: 1;
+    width: 64%;
+    top: 0px;
+    opacity: 0.3;
+    left: 56px;
+}
+
+.img2 {
+    position: absolute;
+    z-index: 2;
+    width: 71%;
+    top: 13px;
+    opacity: 0.4;
+    left: 45px;
+}
+
+.img3 {
+    position: absolute;
+    z-index: 3;
+    width: 79%;
+    top: 24px;
+    opacity: 0.5;
+    left: 30px;
+}
+
+.img4 {
+    position: absolute;
+    z-index: 4;
+    width: 86%;
+    top: 34px;
+    left: 19px;
+    opacity: 0.6;
+}
+
+.img5 {
+    position: absolute;
+    z-index: 5;
+    width: 94%;
+    top: 45px;
+    left: 6px;
+    opacity: 0.7;
+}
+
+.img6 {
+    position: absolute;
+    z-index: 6;
+    width: 104%;
+    top: 57px;
+    left: -9px;
+    opacity: 0.8;
+}
+
+.img7 {
+    position: absolute;
+    z-index: 7;
+    width: 113%;
+    top: 70px;
+    left: -22px;
+    opacity: 0.9;
+}
+
+.img8 {
+    position: absolute;
+    z-index: 8;
+    width: 124%;
+    top: 90px;
+    left: -40px;
+    opacity: 10;
+}
+.xyz
+{
+    color:red;
+    background-image: url("https://technofav.in/images/banner.jpg");
+}
+.arrowDiv
+{
+    position: absolute;
+    right: 51rem;
+    top: 278px;
+    z-index: 1000;
+}
+.arrow
+{
+    width: 30px;
+    height: 21px;
+    border: none;
+    background: #313131;
+    color: #fff;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
